@@ -1,0 +1,19 @@
+{
+  "name": "bamazonone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "clear"
+  },
+  "repository": {
+    "type": "git",
+    "url": "clear"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
